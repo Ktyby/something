@@ -1,0 +1,27 @@
+{
+  "name": "something",
+  "packageManager": "yarn@3.1.1",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ktyby/something.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ktyby/something/issues"
+  },
+  "homepage": "https://github.com/Ktyby/something#readme",
+  "description": "",
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.3",
+    "mongodb": "^4.5.0",
+    "mongoose": "^6.2.10"
+  }
+}
